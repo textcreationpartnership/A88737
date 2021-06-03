@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last true and joyfull newes from Ireland declaring, all the proceedings of the English and Scotch forces in Ireland, against the King of Spains standard, which is now set up in defiance of the King of England, as it was reported to the House of Commons; relating also the victories which the English and Scotch have obtained over the rebels. I, The battell fought by the Earl of Ormond with one thousand men, against the great rebell Oneal, being in number 3000. with the manner of his gaining the victory over Oneal, killing 1100. of his men, and putting the rest to flight, with with the losse of 100. men. II. The battle fought in the province of Vlster, where the standard was set up, by Sir VVilliam Stewart, Col. Sanderson, Col. Gore, Col, Galbragh, and Capt. Thomas Newburgh, with 2000 horse and foot, against 7000. rebels with the manner of their fight, and their victory over the rebels.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88737</idno><idno type="EEBO-CITATION">99871657</idno>
+  <idno type="VID">156098</idno>
+  <idno type="EEBO-PROQUEST">2240942479</idno>
+  
+            <idno type="STC">Wing L508</idno>
+            <idno type="STC">Thomason E118_24</idno>
+            <idno type="STC">ESTC R22206</idno>
+            <idno type="PROQUEST">99871657</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871657e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88737)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156098)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last true and joyfull newes from Ireland declaring, all the proceedings of the English and Scotch forces in Ireland, against the King of Spains standard, which is now set up in defiance of the King of England, as it was reported to the House of Commons; relating also the victories which the English and Scotch have obtained over the rebels. I, The battell fought by the Earl of Ormond with one thousand men, against the great rebell Oneal, being in number 3000. with the manner of his gaining the victory over Oneal, killing 1100. of his men, and putting the rest to flight, with with the losse of 100. men. II. The battle fought in the province of Vlster, where the standard was set up, by Sir VVilliam Stewart, Col. Sanderson, Col. Gore, Col, Galbragh, and Capt. Thomas Newburgh, with 2000 horse and foot, against 7000. rebels with the manner of their fight, and their victory over the rebels.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>September 22. Printed for Thomas Cook,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">O'Neill, Owen Roe, 1590?-1649.</term>
+               <term type="personal_name">Philip, --  King of Spain, 1605-1665.</term>
+               <term type="personal_name">Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term type="geographic_name">Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156098:1"/>
+            <p>The Last True and Joyfull NEWES <hi>FROM</hi> IRELAND DECLARING,</p>
+            <p>All the Proceedings of the <hi>English</hi> and <hi>Scotch</hi> for<g ref="char:EOLhyphen"/>ces in Ireland, against the King of Spains Standard, which is now set up in defiance of the King of <hi>England,</hi> as it was reported to the House of Commons; Relating also the Victories which the English and Scotch have obtained over the Rebels.</p>
+            <list>
+               <item>I, The B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttell fought by the Earl of Ormond with one thou<g ref="char:EOLhyphen"/>sand men, against the great Rebell <hi>Oneal,</hi> being in number 3000. with the manner of his gaining the Victory over Oneal, killing 1100. of his men, and putting the rest to flight, with the losse of 100. men.</item>
+               <item>II. The Battle fought in the Province of Vlster, where the Standard was set up, by Sir <hi>VVilliam Stewart,</hi> Col. <hi>Sanderson,</hi> Col. <hi>Gore,</hi> Col, <hi>Galbragh,</hi> and Capt. <hi>Thomas Newburgh,</hi> with 2000 horse and Foot, against 7000. Rebels, with the manner of their fight, and their victory over the Rebels.</item>
+            </list>
+            <p>
+               <hi>September</hi> 22. Printed for Thomas Cook. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156098:2"/>
+            <pb facs="tcp:156098:2"/>
+            <head>THE Last True and Joyfull NEWES FROM <hi>IRELAND.</hi>
+            </head>
+            <head type="sub">Reported, and read in the Honourable House of Commons, And now published for the satisfaction of all those that desires to know the state and condition of that Kingdom.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu have often sollicited mee for the knowledge of the Occurrences of our distressed Kingdome of <hi>IRELAND</hi> I shall now endeavour to satisfie your Desire,
+<pb facs="tcp:156098:3"/>and I hope your expectation. The Newes I hope will bee acceptable, as will appeare by these particulars, <hi>viz.</hi>
+            </p>
+            <p>Vpon the tenth day of this month, Cap<g ref="char:EOLhyphen"/>tain <hi>Thomas Nevvburgh</hi> with a few men▪ that he raised in great hazzard of his own per<g ref="char:EOLhyphen"/>son, took in <hi>Castle-Derrick,</hi> a place of great consequence and strength, killed the men, pos<g ref="char:EOLhyphen"/>sest their Armes, and in his absence being gone for Ammunition, left the Castle to a young Gentleman M. <hi>DVRDO,</hi> where Oneale the great Rebell immediatly besieged it with sixe thousand men, but M. <hi>Durdo</hi> with great cou<g ref="char:EOLhyphen"/>rage having only twenty men to man the Ca<g ref="char:EOLhyphen"/>ste and Bawn, beat him off, and slew about two hundred of his men, and presently after sallyed out, and slew one prime Gentleman of <hi>Oneiles,</hi> and ten more, and tooke two Colours and a Drumme, with losse of three of his own men; all which and himselfe afterwards for want of Ammunition were forced to leave the Castle, and every one shift for themselvs, where some misled upon the Mountains, hapned upon the Enemies quarters instead of ours and were kil<g ref="char:EOLhyphen"/>led, M. Durdo with great hazzard lying upon the Mountains two nights escaped to us.</p>
+            <p>Sir VVilliam Stewart understanding a great party of the Oneils were in the Kerrils woods, sent out Captain Balfour a deserving souldier with one hundred men, who skirmished with
+<pb facs="tcp:156098:3"/>them, killed fifty Rebels, lost seven of his own men, and brought home 400 Cowes</p>
+            <p>Some four dayes after, Sir VVilliam Ste<g ref="char:EOLhyphen"/>wart desired Lieutenant Collonell Sanderson, and Serjeant Major James Gilbraith to march from Newtown to relieve Agher, and Agha<g ref="char:EOLhyphen"/>tyan, with 500 foot, and 100 horse.</p>
+            <p>The second night in extremity of weather, we m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcht to the Agher, and quartered in Clogher, a mile and a half distant; the enemy fell that night into one ptrt of ourquarters, but upon the alarum of the Sentinels, the maine Guard issued out, killed some and chased the rest.</p>
+            <p>The next morning we marched out into <hi>Fermanagh,</hi> where in taking of five hundred Cowes, as many sheeps, and 300. horses, we killed 70. Rebels, and upon our return we besieged Colonel <hi>Donnogh, Oneils</hi> Castle, being strongly imbattailed and flanckt, after many shot past on both sides, the wind tur<g ref="char:EOLhyphen"/>ning upon the fore-part of the house, we fired some out-houses, in the smoak wherof we approached the Gate, set it on fire, entred the Castle, put the men to the sword: in which march we re<g ref="char:EOLhyphen"/>lieven 6000. women and children, whcih otherwise had perished. In</p>
+            <pb facs="tcp:156098:4"/>
+            <p> In this service Ensign <hi>Long</hi> behaved himself as if he had bin bullet proofe: at hand whilest we were employed in this service, the Rebels drew down upon Sir <hi>William Stewarts New<g ref="char:EOLhyphen"/>tovvn,</hi> and the Castle played off, and killed 50 of their men in the streetes, and preserved the Town except one house or two at the further<g ref="char:EOLhyphen"/>most end.</p>
+            <p>Likewise, Collonell Nugent a most sediti<g ref="char:EOLhyphen"/>ous Instrument, that marryed the Lord of E<g ref="char:EOLhyphen"/>niskellens Mother, drew about six hundred a<g ref="char:EOLhyphen"/>bout <hi>Ballyshannon</hi> Castle, a place of great strength and importance, against whom Sir <hi>RALPH GORE,</hi> and Captain <hi>MAXWELL</hi> a forward Gentleman, drew out some two hun<g ref="char:EOLhyphen"/>dred men, and sixty horse, who encountred them, Routed them, and killed upwards of 180. Rebels, took Collonell Nugents horse, besides many that came down the River by dozens and tens which were killed by the Foot, and nor one man lost of our side.</p>
+            <p>Divers Sallyes were made by Captain <hi>Iohn Falliot,</hi> a worthy Gentleman, deserving mudh commendations for his co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rage and discretion, as also by his Lieutenant <hi>William Ancktill,</hi> E<g ref="char:EOLhyphen"/>squire, a bold Comrade, sometime killing 20. 30. in which Captain <hi>Falliot</hi> received a sore wound in his hand, being at the sword entred, and beset with the Rebels.</p>
+            <p>After this out forces marched out with 400 men, and having burni the Corn, and the Ene<g ref="char:EOLhyphen"/>mies
+<pb facs="tcp:156098:4"/>Garrisons was in his march homewards, by the Rebels with eight hundred men, with great violence charging his Vanne, and unex<g ref="char:EOLhyphen"/>pectedly foure hundred more of the Rebels charged him on the Reare, hee put them all to flight, killed upwards of one hundred men got sixty muskets, and many pikes, hee hath taken all their Boats upon Loughearn, sunke their Cotts, and both by Land and VVater made himselfe a very good Passage, though I conceive he is now in much distresse.</p>
+            <div type="part">
+               <head>Another famous Victory obtained by that wrrthy Champion, Sir Ralph Gore his Regiment.</head>
+               <p>Sir <hi>Ralph Gore</hi> his Regiment being in num<g ref="char:EOLhyphen"/>ber five hundred foote, marched towards the Barronies of Boylagh and Bannagh and Tin<g ref="char:EOLhyphen"/>nugh, being Barronies that had been wholly wasted by the Rebels, where for thirteen weeks we had no sustenance, but what wee pulled out of the Rebels mouths.</p>
+               <p>This Regiment were for the most part min<g ref="char:EOLhyphen"/>gled in service, and having a great scope as 36. long Irish miles to guard, and every way passa<g ref="char:EOLhyphen"/>ble for the enemies entrance, and the charge of many soules there residing and following their Vocations, as in the rime of peace; besides, the conflux of thousand of plundered Families
+<pb facs="tcp:156098:5"/>I beleeve in a serious construction it will deserve the title of miraculous service: for few nights, but the enemy attempted in severall places with <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight-horse to burn the country, which they never in the least way prevailed in, but many times returned with a weaker master then they went forth.</p>
+            </div>
+            <trailer>This Relation was read in the Honourable House of Commons.</trailer>
+            <closer>
+               <dateline>Cork<date>Septem. 14. 1642.</date>
+               </dateline>
+               <signed>Your assured friend J. Jacob.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
